@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Course Material and FAQ for "Build Responsive Real-World Websites with HTML and CSS"
 
 This repo contains starter files and final code for all sections and projects contained in the course.
@@ -59,3 +60,6 @@ Use starter code to start each section, and **final code to compare it with your
 ### Q13: Do you accept pull requests?
 
 **A:** No, for the simple reason that I want this repository to contain the _exact_ same code that is shown in the videos. However, please feel free to add an issue if you found one.
+=======
+# prueba_html
+>>>>>>> 0b28ab811af2cf40c1bfc138c7fca0cc7f11144e
